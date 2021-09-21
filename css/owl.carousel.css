@@ -69,3 +69,9 @@
   -ms-transform: translate3d(0,0,0);
 }
 
+.owl-carousel .animated { 
+  animation-duration: 1000ms;
+  animation-fill-mode: both; 
+}
+
+
