@@ -97,7 +97,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/FairchildBaker.jpeg") no-repeat;
+  background: url("../img/fairchild_from_wheeler.jpeg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -231,7 +231,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/FairchildBaker.jpeg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
