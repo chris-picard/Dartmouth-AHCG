@@ -147,7 +147,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block p {
   color: #7B7B7B;
-  padding-top: 20px;
+  padding-top: 26px;
 }
 #intro .block img {
   padding-left: 40px;
@@ -253,13 +253,13 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 100px 0;
 }
 #feature h2 {
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 600;
   margin-bottom: 30px;
 }
 #feature p {
   color: #8d8f92;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
 }
 #feature .btn-view-works {
   background: #655E7A;
