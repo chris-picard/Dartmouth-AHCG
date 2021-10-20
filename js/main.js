@@ -7,21 +7,21 @@ $(document).ready(function(){
 	$("#testimonial-slider").owlCarousel({
 	    paginationSpeed : 500,      
 	    singleItem:true,
-	    autoPlay: 30000,
+	    autoPlay: 25000,
 	});
 
 
 
 
 	$("#clients-logo").owlCarousel({
-		autoPlay: 30000,
+		autoPlay: 25000,
 		items : 6,
 		itemsDesktop : [1199,5],
 		itemsDesktopSmall : [979,5],
 	});
 
 	$("#works-logo").owlCarousel({
-		autoPlay: 30000,
+		autoPlay: 25000,
 		items : 6,
 		itemsDesktop : [1199,5],
 		itemsDesktopSmall : [979,5],
