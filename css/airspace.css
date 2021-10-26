@@ -144,6 +144,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
+  text-align: center;
 }
 #intro .block p {
   color: #7B7B7B;
