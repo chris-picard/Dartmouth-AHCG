@@ -303,7 +303,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%; 
   border: 1px solid #DEDEDE;
   padding: 24px;
-  margin-right: auto; 
+  margin-right: 80px; 
   margin-left: 15px
 }
 #testimonial .testimonial-carousel img {
