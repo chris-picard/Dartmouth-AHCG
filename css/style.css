@@ -48,3 +48,10 @@
  margin-right:30%;
  margin-left:70%;
 }
+
+.vertAlign 
+{
+  display: flex;
+  align-items: center;
+}
+   
