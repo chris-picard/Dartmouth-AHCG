@@ -153,9 +153,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block img {
   padding-left: 40px;
   width: 50%;
-  margin-right:auto;
-  margin-left:auto;
-  display:block;
 }
 /* -- #intro .centerImage {
 	diplay:block;
