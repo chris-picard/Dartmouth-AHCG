@@ -8,9 +8,7 @@ $(document).ready(function(){
 	    paginationSpeed : 500,      
 	    singleItem:true,
 	    autoPlay: 17000,
-	    margin: 50,
-	    screenLeft: true,
-	    
+	      
 	});
 
 
