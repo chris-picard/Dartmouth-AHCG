@@ -311,8 +311,8 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%; 
   border: 1px solid #DEDEDE;
   padding: 24px;
-  margin-right: 200px; /* 80 */ 
-  margin-left: 100px; /* 15 */ 
+  margin-right: 80px; 
+  margin-left: 15px; 
 }
 #testimonial .testimonial-carousel img {
   padding-bottom: 38px;
