@@ -53,9 +53,9 @@
  verticle-align:middle;
 }
 
-.vertAlign 
+.textLeft
 {
-  display: flex;
-  align-items: left;
+  float:left
+  verticle-align:middle;
 }
    
