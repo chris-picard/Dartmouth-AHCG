@@ -9,6 +9,7 @@ $(document).ready(function(){
 	    singleItem:true,
 	    autoPlay: 17000,
 	    margin: 50,
+	    screenLeft: true,
 	    
 	});
 
