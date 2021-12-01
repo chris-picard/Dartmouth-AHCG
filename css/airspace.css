@@ -268,7 +268,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #feature p {
   color: #8d8f92;
   margin-bottom: 28px;
-  margin-right: 30%;
+  margin-right: 15%; /*-- 30 --*/
+  margin-left: 60%
+	
 }
 #feature .btn-view-works {
   background: #655E7A;
