@@ -269,7 +269,8 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #8d8f92;
   margin-bottom: 28px;
   margin-right: 0%; /*-- 30 --*/
-  margin-left: 20%
+  margin-left: 20%;
+  padding-left: 10px;
 	
 }
 #feature .btn-view-works {
