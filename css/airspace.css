@@ -282,7 +282,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	content Start
 --*/
 #testimonial {
-  padding: 0px 100px;
+  padding: 100px 0px;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -297,7 +297,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   float: right;
   text-align: center;
-  margin: 30px 0 60px;
+  margin: 100px 0 60px;
 }
 #testimonial .counter-box li i {
   font-size: 35px;
